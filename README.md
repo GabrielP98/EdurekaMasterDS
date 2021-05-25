@@ -12,8 +12,8 @@
     
 * R Statistics for Data Science Course - 6 modules - 18h :heavy_check_mark: 
 * Data Science Certification Course using R - 10 modules - 30h :heavy_check_mark:
-* 
-* Apache Spark and Scala Certification Training - 12 modules - 36h
+
+* Apache Spark and Scala Certification Training - 12 modules - 36h :pencil2: :blue_book: (Working)
 * Deep Learning Training - TensorFlow Certification - 10 modules - 30h
 
 
